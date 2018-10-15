@@ -1,0 +1,7 @@
+.card {
+  margin: 10px 0;
+
+  &:hover {
+    box-shadow: 0 2px 3px rgba(2, 30, 156, 0.2), 0 0 0 1px rgba(2, 30, 156, 0.2);
+  }
+}
